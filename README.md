@@ -1,4 +1,4 @@
-# D3D9
+# D3D9-VMT
 
 Basic external VMT hook example.
 
